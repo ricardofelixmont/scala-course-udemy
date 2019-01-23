@@ -7,7 +7,10 @@ object Expressions extends App {
 
   println(2 + 3 * 4)
   /* + - * /   bitwise operators: & | ^ <<(left shift) >>(right shift)  >>>(this operator is particular to Scala)
-   it's called right shift with zero extension*/
+   it's called right shift with zero extension
+
+   println( 37 / 2) // The result of a division in Scala is an Int...
+   */
 
   println(1 == x)   // Expression that shows a Boolean result (true or false)
   // relational operators: == != > >= < <=
