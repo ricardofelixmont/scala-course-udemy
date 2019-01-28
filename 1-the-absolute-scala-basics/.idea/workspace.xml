@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c5c0bf1a-153c-4fa7-9577-cceea2c334e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/partbascis/Expressions$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/partbascis/Expressions$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lectures/partbascis/Expressions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/partbascis/Expressions.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,21 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/Recursion.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="139" column="33" lean-forward="true" selection-start-line="139" selection-start-column="33" selection-end-line="139" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/Functions.scala">
+        <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/StringOps.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="91" column="23" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
+            <state relative-caret-position="426">
+              <caret line="56" column="96" selection-start-line="56" selection-start-column="96" selection-end-line="56" selection-end-column="96" />
             </state>
           </provider>
         </entry>
@@ -56,14 +45,17 @@
         <option value="$PROJECT_DIR$/src/lectures/partbascis/Expressions.scala" />
         <option value="$PROJECT_DIR$/src/lectures/partbascis/Functions.scala" />
         <option value="$PROJECT_DIR$/src/lectures/partbascis/Recursion.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/partbascis/CBNvsCBN.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/partbascis/DefaultArgs.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/partbascis/StringOps.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="47" />
-    <option name="width" value="1346" />
-    <option name="height" value="701" />
+    <option name="x" value="2065" />
+    <option name="y" value="54" />
+    <option name="width" value="1221" />
+    <option name="height" value="635" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -73,8 +65,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,20 +83,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="partbascis" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="rock-the-jvm-scala-beginners" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-the-absolute-scala-basics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="playground" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548267265549" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548678343575" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,7 +106,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Recursion">
+  <component name="RunManager" selected="Application.StringOps">
+    <configuration name="CBNvsCBN" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.partbascis.CBNvsCBN" />
+      <module name="1-the-absolute-scala-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.partbascis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefaultArgs" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.partbascis.DefaultArgs" />
+      <module name="1-the-absolute-scala-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.partbascis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.partbascis.Functions" />
       <module name="1-the-absolute-scala-basics" />
@@ -147,34 +159,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScalaPlayground" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="playground.ScalaPlayground" />
-      <module name="1-the-absolute-scala-basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="playground.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestingExpressions" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="playground.TestingExpressions" />
-      <module name="1-the-absolute-scala-basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="playground.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValuesVariablesTypes" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.partbascis.ValuesVariablesTypes" />
+    <configuration name="StringOps" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.partbascis.StringOps" />
       <module name="1-the-absolute-scala-basics" />
       <extension name="coverage">
         <pattern>
@@ -188,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringOps" />
+        <item itemvalue="Application.DefaultArgs" />
+        <item itemvalue="Application.CBNvsCBN" />
         <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.Functions" />
-        <item itemvalue="Application.TestingExpressions" />
-        <item itemvalue="Application.ScalaPlayground" />
-        <item itemvalue="Application.ValuesVariablesTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -209,11 +195,20 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <frame x="1366" y="-2" width="1920" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.178762" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -222,15 +217,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46091205" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38824764" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39664218" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.21196222" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32843652" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -269,6 +264,46 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/playground/JavaPlayground.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -295,9 +330,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/package.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/package.scala" />
     <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/Expressions.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -312,17 +345,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/Recursion.scala">
+    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/Functions.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="139" column="33" lean-forward="true" selection-start-line="139" selection-start-column="33" selection-end-line="139" selection-end-column="33" />
+        <state relative-caret-position="121">
+          <caret line="90" column="44" selection-start-line="90" selection-start-column="44" selection-end-line="90" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/Functions.scala">
+    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/Recursion.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="91" column="23" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
+        <state relative-caret-position="145">
+          <caret line="143" lean-forward="true" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/call_by_name_call_by_value.scala" />
+    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/CBNvsCBN.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-the-absolute-scala-basics.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/DefaultArgs.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/StringOps.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="56" column="96" selection-start-line="56" selection-start-column="96" selection-end-line="56" selection-end-column="96" />
         </state>
       </provider>
     </entry>
