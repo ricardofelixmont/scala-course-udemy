@@ -1,6 +1,6 @@
 package lectures.part2oop
 
-import javax.security.sasl.AuthorizeCallback
+
 
 object OOBasics extends App {
 
