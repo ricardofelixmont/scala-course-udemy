@@ -5,6 +5,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5c0bf1a-153c-4fa7-9577-cceea2c334e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/Cons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/Empty$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/Empty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/ListTest$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/ListTest$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/ListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/MyList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType$Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType$Carnivore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType$ColdBlooded.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType$Crocodile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType$Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Adult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$AnotherOtherProfessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$AnotherProfessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Professor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$SpecificClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$SpecificProfessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Objects$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Objects$Person$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Objects$Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Objects$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Objects.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Polymorphism$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Polymorphism$Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Polymorphism$AnotherProfessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Polymorphism$Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Polymorphism$Professor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Polymorphism.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/Application$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/Application$Person$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/Application$Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/Application$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/Polimorfismo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTesting$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTesting$Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTesting$Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTesting$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTesting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTestingObjects$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTestingObjects$Person$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTestingObjects.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/ScalaPlayground$Person$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/ScalaPlayground$Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercices/MyList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/AbstractDataType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/InheritanceAndTraits.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/Objects.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/Polymorphism.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/Application.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/Polimorfismo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/PooTesting.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/PooTestingObjects.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsJava/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsJava/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsJava/ThreadsJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsJava/out/production/ThreadsJava/thread/create/MyThreadExtendsThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsJava/out/production/ThreadsJava/thread/create/MyThreadImplementesRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsJava/out/production/ThreadsJava/thread/execute/ThreadExecute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsJava/src/thread/create/MyThreadExtendsThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsJava/src/thread/create/MyThreadImplementesRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsJava/src/thread/execute/ThreadExecute.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/JavaPlayground.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/JavaPlayground.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/ScalaPlayground$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/ScalaPlayground$.class" afterDir="false" />
@@ -26,8 +101,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/exercices/MyList.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="157">
+              <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -108,12 +183,6 @@
               <item name="rock-the-jvm-scala-beginners" type="b2602c69:ProjectViewProjectNode" />
               <item name="1-the-absolute-scala-basics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exercices" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rock-the-jvm-scala-beginners" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-the-absolute-scala-basics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lectures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -130,12 +199,6 @@
               <item name="lectures" type="462c0819:PsiDirectoryNode" />
               <item name="partbascis" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="rock-the-jvm-scala-beginners" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-the-absolute-scala-basics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="playground" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -145,7 +208,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559417976774" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559418235910" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -259,9 +322,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23257576" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23257576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -270,12 +332,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24592833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24592833" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39664218" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2012987" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6465798" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32247558" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32899022" />
@@ -531,8 +593,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exercices/MyList.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="157">
+          <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
         </state>
       </provider>
     </entry>
