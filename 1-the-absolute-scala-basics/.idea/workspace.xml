@@ -5,89 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5c0bf1a-153c-4fa7-9577-cceea2c334e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/Cons.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/Empty$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/Empty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/ListTest$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/ListTest$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/ListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/MyList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType$Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType$Carnivore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType$ColdBlooded.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType$Crocodile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType$Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/AbstractDataType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Adult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$AnotherOtherProfessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$AnotherProfessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Professor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$SpecificClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$SpecificProfessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Objects$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Objects$Person$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Objects$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Objects$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Objects.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Polymorphism$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Polymorphism$Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Polymorphism$AnotherProfessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Polymorphism$Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Polymorphism$Professor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/Polymorphism.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/Application$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/Application$Person$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/Application$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/Application$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/Polimorfismo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTesting$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTesting$Author.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTesting$Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTesting$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTesting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTestingObjects$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTestingObjects$Person$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/PooTestingObjects.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/ScalaPlayground$Person$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/ScalaPlayground$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercices/MyList.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/AbstractDataType.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/InheritanceAndTraits.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/Objects.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/Polymorphism.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/Application.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/Polimorfismo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/PooTesting.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/PooTestingObjects.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadsJava/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadsJava/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadsJava/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadsJava/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadsJava/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadsJava/ThreadsJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadsJava/out/production/ThreadsJava/thread/create/MyThreadExtendsThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadsJava/out/production/ThreadsJava/thread/create/MyThreadImplementesRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadsJava/out/production/ThreadsJava/thread/execute/ThreadExecute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadsJava/src/thread/create/MyThreadExtendsThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadsJava/src/thread/create/MyThreadImplementesRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadsJava/src/thread/execute/ThreadExecute.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/JavaPlayground.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/JavaPlayground.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/ScalaPlayground$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/ScalaPlayground$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/ScalaPlayground$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/ScalaPlayground.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/playground/ScalaPlayground.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/OOBasics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/OOBasics.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/JavaPlayground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/JavaPlayground.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/ScalaPlayground.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/ScalaPlayground.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/Cons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/Cons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/Empty$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/Empty$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/ListTest$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/ListTest$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/ListTest$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/ListTest$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/exercices/MyList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Adult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Adult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$AnotherOtherProfessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$AnotherOtherProfessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$AnotherProfessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$AnotherProfessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$SpecificClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$SpecificClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$SpecificProfessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$SpecificProfessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercices/MyList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercices/MyList.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/InheritanceAndTraits.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/InheritanceAndTraits.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,12 +33,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/exercices/MyList.scala">
+        <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/Recursion.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+            <state relative-caret-position="293">
+              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
             </state>
           </provider>
         </entry>
@@ -131,7 +67,6 @@
         <option value="$PROJECT_DIR$/src/playground/TestingExpressions.scala" />
         <option value="$PROJECT_DIR$/src/lectures/partbascis/ValuesVariablesTypes.scala" />
         <option value="$PROJECT_DIR$/src/lectures/partbascis/Expressions.scala" />
-        <option value="$PROJECT_DIR$/src/lectures/partbascis/Functions.scala" />
         <option value="$PROJECT_DIR$/src/lectures/partbascis/CBNvsCBN.scala" />
         <option value="$PROJECT_DIR$/src/lectures/partbascis/DefaultArgs.scala" />
         <option value="$PROJECT_DIR$/src/lectures/partbascis/StringOps.scala" />
@@ -147,10 +82,24 @@
         <option value="$PROJECT_DIR$/src/lectures/partbascis/Recursion.scala" />
         <option value="$PROJECT_DIR$/src/playground/Person.scala" />
         <option value="$PROJECT_DIR$/src/playground/Application.scala" />
-        <option value="$PROJECT_DIR$/src/lectures/part2oop/InheritanceAndTraits.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part2oop/Polymorphism.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part2oop/AbstractDataType.scala" />
+        <option value="$PROJECT_DIR$/src/playground/InheritancePlayGround.scala" />
+        <option value="$PROJECT_DIR$/src/exercices/MyListGeneric.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2oop/InheritanceAndTraits.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/partbascis/Functions.scala" />
+        <option value="$PROJECT_DIR$/src/playground/Revisao.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2oop/Generics.scala" />
         <option value="$PROJECT_DIR$/src/exercices/MyList.scala" />
+        <option value="$PROJECT_DIR$/src/exercices/ExtendingMyCollection.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2oop/CaseClasses.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2oop/Exceptions.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2oop/package.scala" />
+        <option value="$PROJECT_DIR$/src/playground/myTextFile.txt" />
+        <option value="$PROJECT_DIR$/src/lectures/part2oop/PackagingAndImports.scala" />
+        <option value="$PROJECT_DIR$/src/playground/CCs.scala" />
+        <option value="$PROJECT_DIR$/src/playground/OpenFile.scala" />
       </list>
     </option>
   </component>
@@ -167,6 +116,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,6 +129,12 @@
               <item name="rock-the-jvm-scala-beginners" type="b2602c69:ProjectViewProjectNode" />
               <item name="1-the-absolute-scala-basics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rock-the-jvm-scala-beginners" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-the-absolute-scala-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exercices" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rock-the-jvm-scala-beginners" type="b2602c69:ProjectViewProjectNode" />
@@ -199,16 +156,20 @@
               <item name="lectures" type="462c0819:PsiDirectoryNode" />
               <item name="partbascis" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="rock-the-jvm-scala-beginners" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-the-absolute-scala-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="playground" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559418235910" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566230813135" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -222,9 +183,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ListTest">
-    <configuration name="AbstractDataType" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.AbstractDataType" />
+  <component name="RunManager" selected="Application.OpenFile">
+    <configuration name="CaseClasses" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.CaseClasses" />
       <module name="1-the-absolute-scala-basics" />
       <extension name="coverage">
         <pattern>
@@ -236,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="playground.Application" />
+    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.Exceptions" />
       <module name="1-the-absolute-scala-basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.*" />
+          <option name="PATTERN" value="lectures.part2oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceAndTraits" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.InheritanceAndTraits" />
+    <configuration name="ExtendingMyCollection" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="exercices.ExtendingMyCollection" />
       <module name="1-the-absolute-scala-basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part2oop.*" />
+          <option name="PATTERN" value="exercices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.Polymorphism" />
+    <configuration name="OpenFile" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="playground.OpenFile" />
       <module name="1-the-absolute-scala-basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part2oop.*" />
+          <option name="PATTERN" value="playground.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OpenFile" />
+        <item itemvalue="Application.Exceptions" />
+        <item itemvalue="Application.CaseClasses" />
         <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.AbstractDataType" />
-        <item itemvalue="Application.Polymorphism" />
-        <item itemvalue="Application.InheritanceAndTraits" />
-        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.ExtendingMyCollection" />
       </list>
     </recent_temporary>
   </component>
@@ -322,8 +283,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23257576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22272727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,11 +295,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.24592833" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39664218" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39576548" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6465798" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.18892509" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32247558" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32899022" />
@@ -443,56 +405,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/OOBasics.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3000">
-          <caret line="200" selection-start-line="200" selection-end-line="200" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/CBNvsCBN.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/DefaultArgs.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/playground/polimorfismo.java" />
-    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/StringOps.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/ValuesVariablesTypes.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="85" column="40" selection-start-line="85" selection-start-column="40" selection-end-line="85" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/playground/Polimorfismo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/playground/JavaPlayground.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/playground/JavaPlayground.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -507,20 +420,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/Recursion.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/playground/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playground/package.scala" />
     <entry file="file://$PROJECT_DIR$/src/playground/PooTesting.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -528,73 +428,232 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/MethodNotations.scala">
+    <entry file="file://$PROJECT_DIR$/src/playground/Person.scala" />
+    <entry file="file://$PROJECT_DIR$/src/playground/JavaPlayground.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playground/Polimorfismo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playground/InheritancePlayGround.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercices/package.scala" />
+    <entry file="file://$PROJECT_DIR$/src/playground/Application.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/ValuesVariablesTypes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-668">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/StringOps.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/Expressions.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-735">
-          <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+        <state relative-caret-position="-720">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/Objects.scala">
+    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/DefaultArgs.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1455">
-          <caret line="112" column="6" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
+        <state relative-caret-position="345">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/playground/Person.scala">
+    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/CBNvsCBN.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/Functions.scala">
+    <entry file="file://$PROJECT_DIR$/src/playground/Revisao.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1179">
-          <caret line="33" column="93" selection-start-line="33" selection-start-column="93" selection-end-line="33" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/playground/Application.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/InheritanceAndTraits.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="57" column="15" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/Polymorphism.scala">
+    <entry file="file://$PROJECT_DIR$/src/exercices/ExtendingMyCollection.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/AbstractDataType.scala">
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/Exceptions.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="831">
+          <caret line="111" column="30" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playground/Cinderella.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playground/PrinceCharming.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playground/myTextFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playground/CCs.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/CaseClasses.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="58" column="73" selection-start-line="58" selection-start-column="73" selection-end-line="58" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/MethodNotations.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1200">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exercices/MyList.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+        <state relative-caret-position="-54">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercices/MyListGeneric.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/Generics.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1194">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playground/OpenFile.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-758">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/AbstractDataType.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/Polymorphism.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/OOBasics.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/Objects.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/PackagingAndImports.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#27#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/Functions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/partbascis/Recursion.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
         </state>
       </provider>
     </entry>

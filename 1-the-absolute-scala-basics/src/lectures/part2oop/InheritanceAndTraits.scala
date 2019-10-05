@@ -23,8 +23,6 @@ object InheritanceAndTraits {
 
 
 
-
-
  }
 
 

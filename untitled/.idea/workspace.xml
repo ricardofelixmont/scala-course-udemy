@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa17ae25-3ac0-42bf-a552-877645dce065" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/exercices/ListTest$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/exercices/ListTest$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/exercices/ListTest$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/exercices/ListTest$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Adult.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Adult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$AnotherOtherProfessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$AnotherOtherProfessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$AnotherProfessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$AnotherProfessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$SpecificClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$SpecificClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$SpecificProfessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/out/production/1-the-absolute-scala-basics/lectures/part2oop/InheritanceAndTraits$SpecificProfessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-the-absolute-scala-basics/src/lectures/part2oop/InheritanceAndTraits.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../1-the-absolute-scala-basics/src/lectures/part2oop/InheritanceAndTraits.scala" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="untitled" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/scala/SqTest.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/Sq.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="1366" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565702282448" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="ScalaTest.SqTest">
+    <configuration name="Sq" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Sq" />
+      <module name="UnityTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="UnityTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="UnityTest" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="UnityTest" />
+      <setting name="path" value="SqTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="SqTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqTest.Sq.dobro" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="UnityTest" />
+      <setting name="path" value="SqTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="SqTest" />
+      <setting name="testName" value="Sq.dobro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.SqTest" />
+        <item itemvalue="ScalaTest.SqTest.Sq.dobro" />
+        <item itemvalue="Application.Sq" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="untitled" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="untitled [file:/home/semantix/workspace/scala-course-udemy/untitled/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="untitled-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3131401958000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="589447339" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa17ae25-3ac0-42bf-a552-877645dce065" name="Default Changelist" comment="" />
+      <created>1565700087049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565700087049</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SqTest_Sq_dobro - 2019.08.13 at 10h 07m 02s.xml">
+      <configuration name="SqTest.Sq.dobro" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="SqTest - 2019.08.13 at 10h 11m 42s.xml">
+      <configuration name="SqTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2560606" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848485" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50151515" side_tool="true" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Build" order="11" sideWeight="0.7810606" weight="0.3306189" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="sbt" order="8" weight="0.32954547" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25227273" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" visible="true" weight="0.3306189" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="sbt" order="8" weight="0.32954547" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Sq.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/SqTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

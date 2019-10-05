@@ -19,6 +19,7 @@ abstract class MyList {
 
   override def toString: String = "[" + printElements + "]"
 
+
 }
 
 
@@ -42,6 +43,7 @@ class Cons(h: Int, t: MyList) extends MyList {
     if (isEmpty) "" + h
     else h + " " + t.printElements
 }
+
 
 
 
